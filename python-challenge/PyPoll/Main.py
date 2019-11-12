@@ -1,3 +1,11 @@
+#GWU_DATA_WK3-Python
+/
+python-challenge
+/
+PyPoll
+/
+Main.py
+
 # -*- coding: utf-8 -*-
 """
 Created on Sun Oct  6 18:36:37 2019
